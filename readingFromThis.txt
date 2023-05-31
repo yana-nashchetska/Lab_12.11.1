@@ -1,0 +1,11 @@
+Questionnaires of respondents:
+-------------------
+Age: 32
+Gender: man
+Education: hight
+Answer: Yes
+
+Age: 10
+Gender: woman
+Education: primary
+Answer: No

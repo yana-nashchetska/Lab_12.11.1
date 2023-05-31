@@ -1,0 +1,4 @@
+Age: 100
+Gender: woman
+Education: primary
+Answer: Yes

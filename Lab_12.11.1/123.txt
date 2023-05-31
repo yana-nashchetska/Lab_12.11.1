@@ -1,0 +1,4 @@
+Age: 100
+Gender: man
+Education: average
+Answer: Yes

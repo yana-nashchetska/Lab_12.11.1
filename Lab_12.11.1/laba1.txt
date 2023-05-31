@@ -1,0 +1,7 @@
+Questionnaires of respondents:
+-------------------
+Age: 1
+Gender: man
+Education: primary
+Answer: No
+
